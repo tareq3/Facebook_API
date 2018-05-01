@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Facebook_Api</string>
+    <string name="FACEBOOK_APP_ID">372330003274993</string>
+    <string name="fb_login_protocol_scheme">fb372330003274993</string>
+    <string name="ak_login_protocol_scheme">ak372330003274993</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">1aaa40058b1302a0fa6bb2bed0ce6431</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_phone_label">Login With Phone</string>
+    <string name="login_email_label">Login with Email</string>
+    <string name="account">Account</string>
+    <string name="id_label">Account ID</string>
+    <string name="logout_label">Log out</string>
+    <string name="name_label">infoLabel</string>
+    <string name="login_label">Email or Phone Number</string>
+    <string name="accountkit_button_label">Continue</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="location_label">Location</string>
+    <string name="visited_today">Visited  Today</string>
+    <string name="search_label">Where are you Headed?</string>
+    <string name="follow">Follow</string>
+    <string name="no_friends">No Friends Found</string>
+    <string name="email_label">Email</string>
+    <string name="location_permission_message">Surf Connect would like acces to your user location.</string>
+    <string name="permission_message">Surf Connect requires permission to access your Facebook friend list to use Find Friends</string>
+    <string name="unfollow">UnFollow</string>
+</resources>
