@@ -1,6 +1,7 @@
 package com.mti.crazy_log;
 
 import android.content.Intent;
+import android.content.pm.PackageInfo;
 import android.os.Bundle;
 
 import android.support.v7.app.AppCompatActivity;
@@ -40,6 +41,9 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+
+
 
         logger = AppEventsLogger.newLogger(this);//optional
 
